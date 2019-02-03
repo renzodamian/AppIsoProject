@@ -5,10 +5,10 @@ package clases;
  * @author renzo
  */
 public class User {
-   private int idU;
+    private int idU;
     private String nombreU;
     private String apellidoU;
-    private int cedulaU;
+    private String cedulaU;
     private String correoU;
     private String usuarioU;
     private String contrasenaU;
@@ -37,11 +37,11 @@ public class User {
         this.apellidoU = apellidoU;
     }
     
-    public int getCedulaU() {
+    public String getCedulaU() {
         return cedulaU;
     }
 
-    public void setCedulaU(int cedulaU) {
+    public void setCedulaU(String cedulaU) {
         this.cedulaU = cedulaU;
     }
 

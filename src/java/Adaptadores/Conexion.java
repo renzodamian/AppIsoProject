@@ -16,9 +16,9 @@ import java.sql.SQLException;
  */
 public class Conexion{
     private Connection con;
-    private String user = "luis";
-    private String password = "luis";
-    private String url = "jdbc:derby://localhost:1527/Iso9001";
+    private String user = "adminapp";
+    private String password = "adminapp";
+    private String url = "jdbc:derby://localhost:1527/testapplication";/*Iso9001*/
     private String driverClass = "org.apache.derby.jdbc.ClientDriver";
 
     public Conexion(String user, String password, String url, String driverClass){
