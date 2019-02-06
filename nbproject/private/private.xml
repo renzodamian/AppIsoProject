@@ -3,13 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/renzo/Documents/NetBeansProjects/Iso9001/src/java/Adaptadores/UserDAO.java</file>
-            <file>file:/C:/Users/renzo/Documents/NetBeansProjects/Iso9001/src/java/interfaz/IntPedidoDAO.java</file>
-            <file>file:/C:/Users/renzo/Documents/NetBeansProjects/Iso9001/src/java/Adaptadores/PedidoDAO.java</file>
-            <file>file:/C:/Users/renzo/Documents/NetBeansProjects/Iso9001/web/WEB-INF/vistas/FormRegisterUser.jsp</file>
+            <file>file:/C:/Users/renzo/Documents/NetBeansProjects/Iso9001/src/java/clases/Pedido.java</file>
             <file>file:/C:/Users/renzo/Documents/NetBeansProjects/Iso9001/src/java/clases/User.java</file>
-            <file>file:/C:/Users/renzo/Documents/NetBeansProjects/Iso9001/web/WEB-INF/vistas/tablauser.jsp</file>
-            <file>file:/C:/Users/renzo/Documents/NetBeansProjects/Iso9001/src/java/servelet/FormularioUser.java</file>
+            <file>file:/C:/Users/renzo/Documents/NetBeansProjects/Iso9001/src/java/Adaptadores/PedidoDAO.java</file>
+            <file>file:/C:/Users/renzo/Documents/NetBeansProjects/Iso9001/src/java/clases/DocentePedido.java</file>
+            <file>file:/C:/Users/renzo/Documents/NetBeansProjects/Iso9001/src/java/clases/Administrador.java</file>
         </group>
     </open-files>
 </project-private>
